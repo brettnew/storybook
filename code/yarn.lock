@@ -7018,7 +7018,7 @@ __metadata:
     fs-extra: ^11.1.0
     image-size: ^1.0.0
     loader-utils: ^3.2.0
-    next: ^13.4.8
+    next: ^13.4.9
     node-polyfill-webpack-plugin: ^2.0.1
     pnp-webpack-plugin: ^1.7.0
     postcss: ^8.4.21
@@ -23064,7 +23064,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"next@npm:^13.4.8":
+"next@npm:^13.4.9":
   version: 13.4.10
   resolution: "next@npm:13.4.10"
   dependencies:
